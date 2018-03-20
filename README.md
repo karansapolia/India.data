@@ -1,4 +1,6 @@
-India.data
+<p align="center" style="font-size:54vw;font-family:Tahoma;font-style:italic;">
+  <em>India.data</em>
+</p>
 **A community maintained, de-centralized OGD(Open Government Data) inference portal.**
 - by [Karan Sapolia](https://karansapolia.github.io) and [Contributors]()
 
