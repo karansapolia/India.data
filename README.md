@@ -13,7 +13,7 @@ The data portal provides datasets for personal usage and inference and also offe
 
 India.data aims to address this problem. It aims to be a lighweight, mobile-friendly and easy-to-use community maintained data portal which sources data from various publicly available sources and allows all citizens, even those in the remotest of villages to access and infer frfom OGD data easily.
 
-You are free to copy, modify, and distribute floWeaver with attribution under the terms of the MIT license. See the [License](https://github.com/karansapolia/India.data/blob/master/LICENSE) file
+You are free to copy, modify, and distribute India.data with attribution under the terms of the MIT license. See the [License](https://github.com/karansapolia/India.data/blob/master/LICENSE) file
 for details. If you find it useful please acknowledge that by citing India.data 
 (see below).
 
