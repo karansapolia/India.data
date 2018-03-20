@@ -20,9 +20,16 @@ for details. If you find it useful please acknowledge that by citing India.data
 The project will be available as a completed website for all to use. You can clone and use the project source code from this repo.
 
 ## Engage and find out more
+* The project [Documentation]() is currently being developed and will be available soon. 
+* You can also read the project [License](). 
+* Or go through the list of [Contributors]().
 
+## Contributing to India.data
+India.data is currently in a nascent stage, and while the contribution guidelines will be defined later, currently you can find project goals and aims using these documents and start contributing to the project: 
+* The project aims can be found in the [Project Open Canvas](https://docs.google.com/presentation/d/1VW1mZcP9nKQVwNfgyFIiw2fk8GWuK8TKlp9soRZB-Qo/edit#slide=id.p)
+* And the [Project Roadmap](https://github.com/karansapolia/India.data/projects/1) lists some preliminary goals for which you can start working.
 
-For details refer to the [Project Open Canvas](https://docs.google.com/presentation/d/1VW1mZcP9nKQVwNfgyFIiw2fk8GWuK8TKlp9soRZB-Qo/edit#slide=id.p) and the [Project Roadmap](https://github.com/karansapolia/India.data/projects/1)
+In case you do not find the way you would like to contribute to the project listed, create a [new issue]() and let us know.
 
 ## Current Data Sources :
 + [data.gov.in](https://data.gov.in)
