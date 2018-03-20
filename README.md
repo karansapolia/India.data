@@ -13,7 +13,7 @@ The data portal provides datasets for personal usage and inference and also offe
 
 India.data aims to address this problem. It aims to be a lighweight, mobile-friendly and easy-to-use community maintained data portal which sources data from various publicly available sources and allows all citizens, even those in the remotest of villages to access and infer frfom OGD data easily.
 
-You are free to copy, modify, and distribute floWeaver with attribution under the terms of the MIT license. See the [License]() file
+You are free to copy, modify, and distribute floWeaver with attribution under the terms of the MIT license. See the [License](https://github.com/karansapolia/India.data/blob/master/LICENSE) file
 for details. If you find it useful please acknowledge that by citing India.data 
 (see below).
 
@@ -22,7 +22,7 @@ The project will be available as a completed website for all to use. You can clo
 
 ## Engage and find out more
 * The project [Documentation]() is currently being developed and will be available soon. 
-* You can also read the project [License](). 
+* You can also read the project [License](https://github.com/karansapolia/India.data/blob/master/LICENSE). 
 * Or go through the list of [Contributors]().
 
 ## Contributing to India.data
@@ -30,7 +30,7 @@ India.data is currently in a nascent stage, and while the contribution guideline
 * The project aims can be found in the [Project Open Canvas](https://docs.google.com/presentation/d/1VW1mZcP9nKQVwNfgyFIiw2fk8GWuK8TKlp9soRZB-Qo/edit#slide=id.p)
 * And the [Project Roadmap](https://github.com/karansapolia/India.data/projects/1) lists some preliminary goals for which you can start working.
 
-In case you do not find the way you would like to contribute to the project listed, create a [new issue]() and let us know.
+In case you do not find the way you would like to contribute to the project listed, create a [new issue](https://github.com/karansapolia/India.data/issues/new) and let us know.
 
 ## Current Data Sources :
 + [data.gov.in](https://data.gov.in)
