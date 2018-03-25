@@ -1,10 +1,11 @@
 <p align="center" style="font-size:54vw;font-family:Tahoma;font-style:italic;">India.data</p>
 
-**A community maintained, de-centralized OGD(Open Government Data) inference portal.**
+**A mobile-first, network-light, community maintained, de-centralized Open Government Data portal.**
 - by [Karan Sapolia](https://karansapolia.github.io) and [Contributors]()
 
+_Namaste! 🙏🏻 Hola! Hello! Adaab! Welcome to India.data code repo_
 
-India.data helps you visualize and chart Indian Survey data including [OGD](https://data.gov.in)(Open Government Data) right from your mobile device, without the need of any in-depth knowledge about using CSVs, Excel sheets, etc. The website will provide detailed and interactive maps and charts to infer from the OGD data.
+_India.data helps you visualize and chart Indian Survey data including [OGD](https://data.gov.in)(Open Government Data) right from your mobile device, without the need of any in-depth knowledge about using CSVs, Excel sheets, etc. The website will provide detailed and interactive maps and charts to infer from the OGD data._
 
 ## We already have data.gov.in. Why another data portal?
 The Government of India has made a lot of public data available through its data.gov.in portal and made it publicly reusable and accessible to all by following the [Government Open Data License - India](https://data.gov.in/government-open-data-license-india). 
