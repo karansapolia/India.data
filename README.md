@@ -37,7 +37,7 @@ India.data is currently in a nascent stage, and while the contribution guideline
 * The project aims can be found in the [Project Open Canvas](https://docs.google.com/presentation/d/1VW1mZcP9nKQVwNfgyFIiw2fk8GWuK8TKlp9soRZB-Qo/edit#slide=id.p)
 * And the [Project Roadmap](https://github.com/karansapolia/India.data/projects/1) lists some preliminary goals for which you can start working.
 
-In case you do not find the way you would like to contribute to the project listed, create a [new issue](https://github.com/karansapolia/India.data/issues/new) and let us know.
+In case you do not find the way you would like to contribute to the project listed,go through the [project issues](https://github.com/karansapolia/India.data/issues) and start contributing on one create a [new issue](https://github.com/karansapolia/India.data/issues/new) and let us know.
 
 ## Current Data Sources :
 + [data.gov.in](https://data.gov.in)
