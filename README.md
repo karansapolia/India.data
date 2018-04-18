@@ -10,7 +10,7 @@
 - by [Karan Sapolia](https://karansapolia.github.io) and [Contributors]()
 
 _Namaste! 🙏🏻 Hola! Hello! Adaab! Welcome to India.data code repo_
-
+## Aim
 _India.data helps you visualize and chart Indian Survey data including [OGD](https://data.gov.in)(Open Government Data) right from your mobile device, without the need of any in-depth knowledge about using CSVs, Excel sheets, etc. The website will provide detailed and interactive maps and charts to infer from the OGD data._
 
 ## We already have data.gov.in. Why another data portal?
