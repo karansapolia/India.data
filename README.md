@@ -1,4 +1,9 @@
-<p align="center" style="font-size:54vw;font-family:Tahoma;font-style:italic;">India.data</p>
+<p align="center" style="font-size:54vw;font-family:Tahoma;font-style:italic;">
+  <img
+    alt="India.data"
+    src="https://github.com.karansapolia/Logo.jpg"
+  />
+  India.data</p>
 
 **A mobile-first, network-light, community maintained, de-centralized Open Government Data portal.**
 - by [Karan Sapolia](https://karansapolia.github.io) and [Contributors]()
