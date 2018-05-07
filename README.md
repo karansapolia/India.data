@@ -39,6 +39,8 @@ India.data is currently in a nascent stage, and while the contribution guideline
 * The project aims can be found in the [Project Open Canvas](https://docs.google.com/presentation/d/1VW1mZcP9nKQVwNfgyFIiw2fk8GWuK8TKlp9soRZB-Qo/edit#slide=id.p)
 * And the [Project Roadmap](https://github.com/karansapolia/India.data/projects/1) lists some preliminary goals for which you can start working.
 
+This project is currently  follolwing the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
+
 ## Current Data Sources :
 + [data.gov.in](https://data.gov.in)
 
