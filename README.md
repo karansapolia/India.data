@@ -1,7 +1,7 @@
 <p align="center">
   <img
     alt="India.data"
-    src="https://github.com/karansapolia/India.data/blob/master/Logo.jpg"
+    src="https://github.com/karansapolia/India.data/blob/master/Logo (1).jpg"
     width="400"
     height="400"
   />
