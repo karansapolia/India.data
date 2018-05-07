@@ -2,8 +2,8 @@
   <img
     alt="India.data"
     src="https://github.com/karansapolia/India.data/blob/master/Logo (1).jpg"
-    width="400"
-    height="400"
+    width="200"
+    height="200"
   />
 </p>
 
