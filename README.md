@@ -12,6 +12,9 @@
 
 _Namaste! 🙏🏻 Hola! Hello! Adaab! Welcome to India.data code repo_
 ## Aim
+
+[![Join the chat at https://gitter.im/India-data/Lobby](https://badges.gitter.im/India-data/Lobby.svg)](https://gitter.im/India-data/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 _India.data helps you visualize and chart Indian Survey data including [OGD](https://data.gov.in)(Open Government Data) right from your mobile device, without the need of any in-depth knowledge about using CSVs, Excel sheets, etc. The website will provide detailed and interactive maps and charts to infer from the OGD data._
 
 ## We already have data.gov.in. Why another data portal?
