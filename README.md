@@ -10,7 +10,7 @@
 **A mobile-first, network-light, community maintained, de-centralized Open Government Data portal.**
 - by [Karan Sapolia](https://karansapolia.github.io) and [Contributors]()
 
-_Namaste! 🙏🏻 Hola! Hello! Adaab! Welcome to the eIndia.data code repo_
+_Namaste! 🙏🏻 Hola! Hello! Adaab! Welcome to the India.data code repo_
 ## Aim
 
 [![Join the chat at https://gitter.im/India-data/Lobby](https://badges.gitter.im/India-data/Lobby.svg)](https://gitter.im/India-data/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
